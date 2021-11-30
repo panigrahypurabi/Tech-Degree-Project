@@ -1,2 +1,2 @@
-# Tech-Degree-Project
+# Tech Degree Project
  My Tech Degree Project
